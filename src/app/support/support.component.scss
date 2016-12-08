@@ -1,0 +1,7 @@
+@import '../../style.scss';
+
+section.qa {
+    .item {
+        @include make-md-column(6);
+    }
+}
